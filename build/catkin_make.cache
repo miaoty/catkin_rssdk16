@@ -1,0 +1,2 @@
+rslidar_sdk
+-DCATKIN_DEVEL_PREFIX=/home/tymiao2/catkin_rssdk16/devel -DCMAKE_INSTALL_PREFIX=/home/tymiao2/catkin_rssdk16/install -G Unix Makefiles
